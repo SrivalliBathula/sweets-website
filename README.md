@@ -1,1 +1,1 @@
-# sweets-website.
+# sweets-website
